@@ -13,6 +13,10 @@
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
     <!-- google fonts used -->
 
+    <!-- font-awesome fonts used  https://fontawesome.com/v4.7.0/ -->
+    <link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> 
+    <!-- font-awesome fonts used  https://fontawesome.com/v4.7.0/ -->
+
 
   </head>
   <body>
