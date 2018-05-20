@@ -17,6 +17,6 @@ KofiDesign Web Starter Pack
 - Animate NB Works with wow.js [Animate.css](https://daneden.github.io/animate.css/). 
 
 
-** Includes / Partials**
+**Includes / Partials**
 - Footer (Holds All Content on the footer and Links to JS )
 - Navigation (Hold Links to css and Navitation Contents )
